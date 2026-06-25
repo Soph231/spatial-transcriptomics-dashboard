@@ -1,4 +1,5 @@
 # Cancer Gene Expression Dashboard
+![Screenshot](https://github.com/Soph231/spatial-transcriptomics-dashboard/blob/main/screenshot/cancer_expression_dashboard.png)
 
 A modular Python Dash application for exploring spatial gene expression and pathway enrichment in breast cancer Visium data.
 
