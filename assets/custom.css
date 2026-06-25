@@ -1,0 +1,28 @@
+/* If you are using a CSS file, make sure the expanded accordion also has the same style */
+/* Control collapsed and expanded header */
+.accordion-button {
+    background-color: #394867 !important;
+    color: #F1F6F9 !important;
+}
+
+/* Keep same style when collapsed */
+.accordion-button.collapsed {
+    background-color: #394867 !important;
+    color: #F1F6F9 !important;
+}
+
+/* Accordion body (expanded content area) */
+.accordion-body {
+    background-color: #394867 !important;
+    color: #F1F6F9 !important;
+}
+
+/* Entire accordion item (border, etc.) */
+.accordion-item {
+    background-color: #394867 !important;
+    color: #F1F6F9 !important;
+    border: 2px solid #14274E;
+    border-radius: 8px;
+}
+
+
