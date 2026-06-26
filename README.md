@@ -94,7 +94,7 @@ For Cloud Run, use `requirements-gcs.txt` and the included Dockerfile.
 
 ## Live Dashboard
 
-A deployed version of the [dashboard](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203612) is available online.
+A deployed version of the [dashboard](https://visualization-project.sophiabrauning.com/)) is available online.
 
 ## License
 
